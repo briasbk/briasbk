@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m **Brias
+- 👋 Hi, I’m **Brias**
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning native ios development and secure digital product design.
 - 💞️ I’m looking to collaborate on Private Security Tools
